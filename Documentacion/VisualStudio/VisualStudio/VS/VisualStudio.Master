@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="VisualStudio.master.cs" Inherits="VisualStudio.VS.VisualStudio" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" id="visualStudio" type="text/css" href="~/style/visualStudio.css"/>
+    <link rel="stylesheet" id="Link1" type="text/css" href="~/style/adminProductos.css"/>
+    <link rel="stylesheet" id="Link2" type="text/css" href="~/style/descripcionProducto.css"/>
+    <link rel="stylesheet" id="Link3" type="text/css" href="~/style/index.css"/>
+    <link rel="stylesheet" id="Link4" type="text/css" href="~/style/productos.css"/>
+    <link rel="stylesheet" id="Link5" type="text/css" href="~/style/regLog.css"/>   
+        <asp:ContentPlaceHolder ID="head" runat="server" >
+        </asp:ContentPlaceHolder> 
+    
+</head>
+<body>
+    <div class="container">
+   
+        <form id="form1" runat="server">
+        
+            <div id="header" class="header">
+           
+                <div class="logo"> 
+                <asp:ImageButton class="img" ID="ImageButton1" runat="server" ImageUrl="~/VS/img/LogoVirtualShop (1).png" PostBackUrl="~/VS/index.aspx" />
+                   
+                </div>
+                
+
+                <asp:ContentPlaceHolder ID="log" runat="server">
+                </asp:ContentPlaceHolder>
+
+                 <asp:ContentPlaceHolder ID="registracion" runat="server">
+                </asp:ContentPlaceHolder>
+
+            </div>
+            <div class="main">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="footer" class="footer">
+                <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+                </asp:SiteMapPath> 
+            </div>
+        </form>
+     </div>
+</body>
+</html>

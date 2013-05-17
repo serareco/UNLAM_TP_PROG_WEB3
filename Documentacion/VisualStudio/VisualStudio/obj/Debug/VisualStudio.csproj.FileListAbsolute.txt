@@ -1,0 +1,5 @@
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb

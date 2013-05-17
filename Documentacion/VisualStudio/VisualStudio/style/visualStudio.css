@@ -1,0 +1,52 @@
+﻿body{margin:50px 0px 0px 0px; 
+     background-image:url([~/VS/Fondo.jpg]);
+     background-color:#04046a;
+    }
+
+.container{ width:960px; 
+			height:auto;
+			background-color:white;
+			border-style:solid; 
+			border-width:1px ; 
+			border-color:#000000;
+			margin: 0 auto;
+            }
+
+.header { background-color:white;
+			  width:960px; 
+			  height:230px;
+			  margin-top:10px ;
+			  background-color:white;
+			  border-bottom-style:groove;
+			  border-bottom-color:Black;
+            }
+            
+.img
+{width: 400px;
+ float:left;
+ }
+ 
+ 
+.logo
+{   float:left;
+    background-color:white;
+    margin:20px 10px 10px 60px;
+    }
+
+.footer
+{ background-color:white;
+  height:100px;
+  background-color:white;
+  border-top-style:groove;
+  border-bottom-color:Black;
+}
+
+
+.main{	width:960px; 
+			min-height: 500px;
+			font:16px arial,helvetica,sans-serif; 
+			color:#04046a;
+			background-color:white;
+			display:block;
+			}
+			
