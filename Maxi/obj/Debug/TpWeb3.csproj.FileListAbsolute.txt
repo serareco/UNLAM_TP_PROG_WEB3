@@ -1,0 +1,10 @@
+C:\Users\maxi\Documents\Visual Studio 2010\Projects\TpWeb3\TpWeb3\bin\TpWeb3.dll
+C:\Users\maxi\Documents\Visual Studio 2010\Projects\TpWeb3\TpWeb3\bin\TpWeb3.pdb
+C:\Users\maxi\Documents\Visual Studio 2010\Projects\TpWeb3\TpWeb3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maxi\Documents\Visual Studio 2010\Projects\TpWeb3\TpWeb3\obj\Debug\TpWeb3.dll
+C:\Users\maxi\Documents\Visual Studio 2010\Projects\TpWeb3\TpWeb3\obj\Debug\TpWeb3.pdb
+C:\Users\maxi\Desktop\TpWeb3\bin\TpWeb3.dll
+C:\Users\maxi\Desktop\TpWeb3\bin\TpWeb3.pdb
+C:\Users\maxi\Desktop\TpWeb3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maxi\Desktop\TpWeb3\obj\Debug\TpWeb3.dll
+C:\Users\maxi\Desktop\TpWeb3\obj\Debug\TpWeb3.pdb

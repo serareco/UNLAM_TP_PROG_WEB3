@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TpWeb3.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" href="CSS/jquery-ui.css" rel="stylesheet" />    
+      <script type="text/javascript"  src ="Scripts/jquery.min.js"></script>
+      <script type="text/javascript" src="Scripts/jquery-ui.min.js"></script>
+
+      <script type="text/javascript">
+    $(document).ready(function(){
+        $('#MainContent_txtbxFechaDeCompra').datepicker();                                   
+    });
+  </script>
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div id="header">
+            <div class="shell">
+
+                <div id="head">
+                    <h1><a href="#">TP PROGRAMACION WEB |||</a></h1>
+
+                </div><br />
+                <div class="tabArea">
+                    <a class="tab" href="Login.aspx">Login</a>
+                    <a class="tab" href="AdministracionDeCompras.aspx">Administracion De Compras</a>
+                    <a class="tab" href="AdministracionDeEmpresasVirtuales.aspx">Administracion De Empresas Virtuales</a>  
+                    <a class="tab" href="PanelDeTiendasVirtuales.aspx">Panel de tiendas Virtuales</a>      
+                </div>
+            </div>
+            
+     </div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        
+    
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
