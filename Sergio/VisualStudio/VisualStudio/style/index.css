@@ -1,0 +1,99 @@
+﻿.login
+{    width:330px; 
+	 height:auto;
+	 background-color:#04046a;
+	 border-style:solid; 
+	 border-width:1px ; 
+	 border-color:#000000;
+	 float:right;
+	 margin:3px 15px 15px 15px;
+}
+
+.link
+{   font:12px arial,helvetica,sans-serif; 
+	color: white;
+	margin:5px 0px 0px 10px;
+	float:left;
+	width:200px;
+	float:left;
+    }
+			
+.titleLog 
+{   display:block;
+    font: 18px arial,helvetica,sans-serif; 
+    color: white;
+    margin:5px;
+    text-align:center;
+    }
+	
+		
+.oneControlLog
+{	font:14px arial,helvetica,sans-serif; 
+ 	color: white;
+	float:left;
+	width:70px;
+	margin:3px 30px 3px 30px;
+}
+
+.oneControlTxtLog
+{	font:11px arial,helvetica,sans-serif; 
+ 	color: Black;
+	float:left;
+	width:150px;
+}
+.buttom
+{ text-align:right;
+  margin-right:15px;
+  margin-top:65px;
+  margin-bottom: 8px;
+    }
+      
+.category
+{ background-color:White;
+  margin:50px 15px 15px 0px;
+  height:50px;
+  text-align: center;
+    }
+ 
+ .shops
+ {background-color:White;
+  width:960px;
+  height:auto;
+  margin-top:50px;
+ }
+    
+.column
+{ margin:50px 15px 15px 80px;
+  width:200px;
+  height:300px;
+  border-style:dotted; 
+  border-width:1px ; 
+  border-color:#000000;
+  float:left;
+  background-color:White;
+  display: none;
+    }
+    
+ .imgCol
+{ width:150px;
+  height:150px;
+  margin:30px 25px 10px 25px;
+}
+
+.captcha
+{height:40px;
+ width:149px;
+    }
+    
+.mgerror
+{color:Red ; 
+ font-size:16px;
+ float: left;
+    }
+
+    
+    
+.catDDListControl
+{
+
+}
