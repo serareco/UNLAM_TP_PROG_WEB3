@@ -14,10 +14,5 @@ namespace VisualStudio.VS
 
         }
 
-        protected void Category_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            test.Text = "prueba";
-        }
-
     }
 }

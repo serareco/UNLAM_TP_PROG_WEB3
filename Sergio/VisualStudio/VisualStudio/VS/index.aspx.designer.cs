@@ -22,22 +22,13 @@ namespace VisualStudio.VS {
         protected global::System.Web.UI.WebControls.Label Categoria;
         
         /// <summary>
-        /// Control category.
+        /// Control ElegirCategoria.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList category;
-        
-        /// <summary>
-        /// Control test.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label test;
+        protected global::VisualStudio.VS.ucElegirCategoria ElegirCategoria;
         
         /// <summary>
         /// Control Label3.

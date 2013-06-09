@@ -1,0 +1,128 @@
+﻿body{margin:20px 0px 0px 0px; 
+     background-image:url('../img/Fondo.jpg');
+    }
+
+div.tabArea{ font-size: 80%; font-weight: bold; margin: 0px 200px 0px 200px;}
+/*background-color: #B40404;*/
+a.tab {  background:url(../img/nav.gif); border: 1px solid #000000;
+		border-bottom-width: 0px; padding: 2px 1em 2px 1em;
+		text-decoration: none;}
+
+a.tab, a.tab:visited {color: white;}
+
+a.tab:hover { background-color: #d0d0d0; color: #cacac4;}
+
+
+a { color:#364f86; text-decoration: none; cursor:pointer; }
+a:hover { color:#000; }			
+	
+.container{ width:960px; 
+			height:auto;
+			background-color:white;
+			border-style:solid; 
+			border-width:1px ; 
+			border-color:#000000;
+			margin: 0 auto;
+            }
+            
+.img
+{width: 220px;
+ float:left;
+ }
+ 
+ 
+.logo
+{   float:left;
+    background-color:transparent;
+    margin:10px 10px 10px 60px;
+    }
+
+.main{	width:960px; 
+			min-height: 500px;
+			font:16px arial,helvetica,sans-serif; 
+			color:#04046a;
+			background-color:white;
+			display:block;
+		
+			}
+			
+.header
+{
+    background-image:url('../img/fondo_header_trans.png');
+    width: 960px;
+    height: 150px;
+    border-bottom-style: groove;
+    border-bottom-color: Black;
+}
+
+.login
+{    width:370px; 
+	 height:150px;
+	 background-color:#04046a;
+	 border-style:solid; 
+	 border-width:1px ; 
+	 border-color:#000000;
+	 float:right;
+	 margin:0px 0px 15px 15px;
+	 
+}
+
+.errorMessage
+{ float:left;
+  color:White;
+  font:20px arial,helvetica,sans-serif;
+  margin-left:70px;
+  width:200;
+    }
+.tagLog
+{ width:250px;
+    }
+
+.link
+{   font: bold 15px arial,helvetica,sans-serif; 
+	color: #04046a;
+	float:left;
+	margin-top:60px;
+	margin-left:60px;
+
+	
+    }
+			
+.titleLog 
+{   display:block;
+    font: 18px arial,helvetica,sans-serif; 
+    color: white;
+    margin:5px;
+    text-align:center;
+    }
+		
+.oneControlLog
+{	font:14px arial,helvetica,sans-serif; 
+ 	color: white;
+	float:left;
+	width:70px;
+	margin:3px 30px 3px 30px;
+}
+
+.oneControlTxtLog
+{	font:11px arial,helvetica,sans-serif; 
+ 	color: Black;
+	float:left;
+	width:150px;
+}
+
+.buttom
+{ text-align:right;
+  margin-right:15px;
+  margin-top:65px;
+  margin-bottom: 8px;
+    }
+
+.footer
+{ background-image:url('../img/fondo_header_trans.png');
+  font:10px arial,helvetica,sans-serif;
+  font-weight:bold;
+  border-top-style:groove;
+  border-bottom-color:Black;
+  height:70px;
+}

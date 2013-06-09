@@ -62,6 +62,9 @@
     <Content Include="VS\img\logoRopa\adidas.jpg" />
     <Content Include="VS\img\logoRopa\levis.jpg" />
     <Content Include="VS\img\logoRopa\totto.gif" />
+    <Content Include="VS\img\logoTienda\adidas.jpg" />
+    <Content Include="VS\img\logoTienda\Cheeky.gif" />
+    <Content Include="VS\img\logoTienda\HP.jpg" />
     <Content Include="VS\img\LogoVirtualShop_small.png" />
     <Content Include="VS\img\ropa\ADIDAS\adidas1.jpg" />
     <Content Include="VS\img\ropa\ADIDAS\adidasBuzo.jpg" />
@@ -69,6 +72,7 @@
     <Content Include="VS\img\ropa\jean.jpg" />
     <Content Include="VS\img\ropa\remera.jpg" />
     <Content Include="VS\img\vsOpaco copy.jpg" />
+    <Content Include="VS\js\jquery-1.7.1.min.js" />
     <Content Include="VS\js\JScript.js" />
     <Content Include="VS\regLog.aspx" />
     <Content Include="style\regLog.css" />
@@ -76,6 +80,7 @@
     <Content Include="VS\productos.aspx" />
     <Content Include="VS\descripcionProducto.aspx" />
     <Content Include="VS\adminProductos.aspx" />
+    <Content Include="VS\ucElegirCategoria.ascx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -85,12 +90,24 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\Categoria.cs" />
+    <Compile Include="classes\Compra.cs" />
+    <Compile Include="classes\Producto.cs" />
+    <Compile Include="classes\Tienda.cs" />
+    <Compile Include="classes\Usuario.cs" />
     <Compile Include="VS\captcha\captcha.aspx.cs">
       <DependentUpon>captcha.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="VS\captcha\captcha.aspx.designer.cs">
       <DependentUpon>captcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\ucElegirCategoria.ascx.cs">
+      <DependentUpon>ucElegirCategoria.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\ucElegirCategoria.ascx.designer.cs">
+      <DependentUpon>ucElegirCategoria.ascx</DependentUpon>
     </Compile>
     <Compile Include="VS\VisualStudio.Master.cs">
       <DependentUpon>VisualStudio.Master</DependentUpon>

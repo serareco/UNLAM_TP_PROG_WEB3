@@ -3,3 +3,8 @@ C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\V
 C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\bin\VisualStudio.pdb
 C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
 C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb

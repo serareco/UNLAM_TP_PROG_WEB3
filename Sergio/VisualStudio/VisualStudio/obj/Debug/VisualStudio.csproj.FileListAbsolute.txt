@@ -8,3 +8,8 @@ C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3
 C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
 C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb

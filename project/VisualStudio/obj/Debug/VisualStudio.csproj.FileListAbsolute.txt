@@ -1,0 +1,50 @@
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Bachi\Documents\Visual Studio 2010\WebSites\WebSite7 (1)\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Documentacion\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Desktop\Programacion Web III\Trabajo Practico\UNLAM_TP_PROG_WEB3\Sergio\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Bachi\Desktop\VisualStudio Sergio\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Bachi\Desktop\VisualStudio Sergio\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Bachi\Desktop\VisualStudio Sergio\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bachi\Desktop\VisualStudio Sergio\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Bachi\Desktop\VisualStudio Sergio\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Bachi\Desktop\M2\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\Bachi\Desktop\M2\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Bachi\Desktop\M2\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bachi\Desktop\M2\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Bachi\Desktop\M2\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\maxi\Desktop\M2\VisualStudio\VisualStudio\bin\VisualStudio.dll
+C:\Users\maxi\Desktop\M2\VisualStudio\VisualStudio\bin\VisualStudio.pdb
+C:\Users\maxi\Desktop\M2\VisualStudio\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\maxi\Desktop\M2\VisualStudio\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\maxi\Desktop\M2\VisualStudio\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Documents\Visual Studio 2010\VisualStudio_Final\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Documents\Visual Studio 2010\VisualStudio_Final\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Documents\Visual Studio 2010\VisualStudio_Final\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2010\VisualStudio_Final\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Documents\Visual Studio 2010\VisualStudio_Final\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Desktop\VisualStudio_Final_primera\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Desktop\VisualStudio_Final_primera\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Desktop\VisualStudio_Final_primera\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\VisualStudio_Final_primera\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Desktop\VisualStudio_Final_primera\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Bachi\Desktop\VisualStudio_Final_primera\VisualStudio\bin\VisualStudio.dll
+C:\Users\Bachi\Desktop\VisualStudio_Final_primera\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Bachi\Desktop\VisualStudio_Final_primera\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bachi\Desktop\VisualStudio_Final_primera\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Bachi\Desktop\VisualStudio_Final_primera\VisualStudio\obj\Debug\VisualStudio.pdb
+C:\Users\Sergio\Desktop\VitsualStudio_Final_primera_Ul\VisualStudio\bin\VisualStudio.dll
+C:\Users\Sergio\Desktop\VitsualStudio_Final_primera_Ul\VisualStudio\bin\VisualStudio.pdb
+C:\Users\Sergio\Desktop\VitsualStudio_Final_primera_Ul\VisualStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\VitsualStudio_Final_primera_Ul\VisualStudio\obj\Debug\VisualStudio.dll
+C:\Users\Sergio\Desktop\VitsualStudio_Final_primera_Ul\VisualStudio\obj\Debug\VisualStudio.pdb

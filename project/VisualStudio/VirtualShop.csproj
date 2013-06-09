@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FEF76B6A-0A3A-44D9-8928-74490B198697}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VisualStudio</RootNamespace>
+    <AssemblyName>VisualStudio</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="VS\Script\jquery-1.4.1-vsdoc.js" />
+    <Content Include="VS\Script\jquery-1.4.1.js" />
+    <Content Include="VS\Script\jquery-1.4.1.min.js" />
+    <Content Include="VS\Script\jquery-ui.min.js" />
+    <Content Include="VS\Script\jquery.min.js" />
+    <Content Include="VS\style\adminProductos.css" />
+    <Content Include="VS\style\descripcionProducto.css" />
+    <Content Include="VS\style\index.css" />
+    <Content Include="VS\style\jquery-ui.css" />
+    <Content Include="VS\style\productos.css" />
+    <Content Include="VS\style\administracionDeCompras.css" />
+    <Content Include="VS\style\regModProductos.css" />
+    <Content Include="VS\captcha\captcha.aspx" />
+    <Content Include="VS\style\visualStudio.css" />
+    <Content Include="VS\style\compra.css" />
+    <Content Include="VS\img\check.png" />
+    <Content Include="VS\img\del.png" />
+    <Content Include="VS\img\edit.png" />
+    <Content Include="VS\img\Fondo.jpg" />
+    <Content Include="VS\img\fondo_header.png" />
+    <Content Include="VS\img\fondo_header_trans.png" />
+    <Content Include="VS\img\logoRopa\adidas.jpg" />
+    <Content Include="VS\img\logoRopa\levis.jpg" />
+    <Content Include="VS\img\logoRopa\totto.gif" />
+    <Content Include="VS\img\logoTienda\adidas.jpg" />
+    <Content Include="VS\img\logoTienda\Cheeky.gif" />
+    <Content Include="VS\img\logoTienda\HP.jpg" />
+    <Content Include="VS\img\LogoVirtualShop_small.png" />
+    <Content Include="VS\img\nav.gif" />
+    <Content Include="VS\img\point.png" />
+    <Content Include="VS\img\ropa\ADIDAS\adidas1.jpg" />
+    <Content Include="VS\img\ropa\ADIDAS\adidasBuzo.jpg" />
+    <Content Include="VS\img\ropa\ADIDAS\adidasPantalon.jpg" />
+    <Content Include="VS\img\ropa\jean.jpg" />
+    <Content Include="VS\img\ropa\remera.jpg" />
+    <Content Include="VS\img\vsOpaco copy.jpg" />
+    <Content Include="VS\js\jquery-1.7.1.min.js" />
+    <Content Include="VS\js\JScript.js" />
+    <Content Include="VS\pages\Perfil.aspx" />
+    <Content Include="VS\pages\regLog.aspx" />
+    <Content Include="VS\style\regLog.css" />
+    <Content Include="VS\pages\default.aspx" />
+    <Content Include="VS\pages\productos.aspx" />
+    <Content Include="VS\pages\descripcionProducto.aspx" />
+    <Content Include="VS\pages\adminProductos.aspx" />
+    <Content Include="VS\pages\administracionDeCompras.aspx" />
+    <Content Include="VS\pages\regModProductos.aspx" />
+    <Content Include="VS\style\ventas.css" />
+    <Content Include="VS\style\gview.css" />
+    <Content Include="VS\pages\ventas.aspx" />
+    <Content Include="VS\pages\compras.aspx" />
+    <Content Include="VS\pages\ventasConf.aspx" />
+    <Content Include="VS\userControls\ucElegirCategoria.ascx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="VS\classes\Categoria.cs" />
+    <Compile Include="VS\classes\ListaV.cs" />
+    <Compile Include="VS\classes\ListasC.cs" />
+    <Compile Include="VS\classes\Compra.cs" />
+    <Compile Include="VS\classes\Producto.cs" />
+    <Compile Include="VS\classes\Tienda.cs" />
+    <Compile Include="VS\classes\Usuario.cs" />
+    <Compile Include="VS\captcha\captcha.aspx.cs">
+      <DependentUpon>captcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\captcha\captcha.aspx.designer.cs">
+      <DependentUpon>captcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\classes\ListaAP.cs" />
+    <Compile Include="VS\pages\Perfil.aspx.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\Perfil.aspx.designer.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\userControls\ucElegirCategoria.ascx.cs">
+      <DependentUpon>ucElegirCategoria.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\userControls\ucElegirCategoria.ascx.designer.cs">
+      <DependentUpon>ucElegirCategoria.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\VisualStudio.Master.cs">
+      <DependentUpon>VisualStudio.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\VisualStudio.Master.designer.cs">
+      <DependentUpon>VisualStudio.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VS\pages\regLog.aspx.cs">
+      <DependentUpon>regLog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\regLog.aspx.designer.cs">
+      <DependentUpon>regLog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\productos.aspx.cs">
+      <DependentUpon>productos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\productos.aspx.designer.cs">
+      <DependentUpon>productos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\descripcionProducto.aspx.cs">
+      <DependentUpon>descripcionProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\descripcionProducto.aspx.designer.cs">
+      <DependentUpon>descripcionProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\adminProductos.aspx.cs">
+      <DependentUpon>adminProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\adminProductos.aspx.designer.cs">
+      <DependentUpon>adminProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\administracionDeCompras.aspx.cs">
+      <DependentUpon>administracionDeCompras.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\administracionDeCompras.aspx.designer.cs">
+      <DependentUpon>administracionDeCompras.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\regModProductos.aspx.cs">
+      <DependentUpon>regModProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\regModProductos.aspx.designer.cs">
+      <DependentUpon>regModProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\ventas.aspx.cs">
+      <DependentUpon>ventas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\ventas.aspx.designer.cs">
+      <DependentUpon>ventas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\compras.aspx.cs">
+      <DependentUpon>compras.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\compras.aspx.designer.cs">
+      <DependentUpon>compras.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VS\pages\ventasConf.aspx.cs">
+      <DependentUpon>ventasConf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VS\pages\ventasConf.aspx.designer.cs">
+      <DependentUpon>ventasConf.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.sitemap">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="VS\VisualStudio.Master" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>45876</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

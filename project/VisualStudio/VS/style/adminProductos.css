@@ -1,0 +1,51 @@
+﻿.title 
+{   display:block;
+	font: 32px arial,helvetica,sans-serif; 
+	color: #04046a;
+	margin-top:10%;		
+	margin-bottom:0.4%;
+	text-align:center;
+		}
+			
+.controlers
+{   width:520px;
+    float:left;
+    margin:20px;
+		}
+
+            
+.mgrid
+{ margin: 50px 100px 0px 100px;
+
+ 
+ }
+
+.gContent
+{ float:left;
+  width:14%;
+  min-height:55px;
+  font-size:10px;
+  text-align:center;
+  background-color:#b1e4c4;
+  padding-top:5px;
+    }
+.grid
+{   float:left;
+    width:14%;
+    min-height:30px;
+    font-size:15px;
+    text-align:center;
+    background-color:#b1e4c4;
+    padding-top:10px;
+     
+    }
+    
+.ingBack
+{ background-image:url('../VS/img/vsOpaco copy.jpg');
+  margin:30px 50px 30px 50px;
+    }
+    
+ .icon
+ {  width:20px;
+    height:20px;
+     }

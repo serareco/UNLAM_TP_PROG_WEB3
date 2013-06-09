@@ -1,6 +1,5 @@
-﻿body{margin:50px 0px 0px 0px; 
-     background-image:url([~/VS/Fondo.jpg]);
-     background-color:#04046a;
+﻿body{margin:20px 0px 0px 0px; 
+     background-image:url('../VS/img/Fondo.jpg');
     }
 
 .container{ width:960px; 
@@ -11,36 +10,18 @@
 			border-color:#000000;
 			margin: 0 auto;
             }
-
-.header { background-color:white;
-			  width:960px; 
-			  height:230px;
-			  margin-top:10px ;
-			  background-color:white;
-			  border-bottom-style:groove;
-			  border-bottom-color:Black;
-            }
             
 .img
-{width: 400px;
+{width: 220px;
  float:left;
  }
  
  
 .logo
 {   float:left;
-    background-color:white;
-    margin:20px 10px 10px 60px;
+    background-color:transparent;
+    margin:10px 10px 10px 60px;
     }
-
-.footer
-{ background-color:white;
-  height:100px;
-  background-color:white;
-  border-top-style:groove;
-  border-bottom-color:Black;
-}
-
 
 .main{	width:960px; 
 			min-height: 500px;
@@ -50,3 +31,20 @@
 			display:block;
 			}
 			
+.header
+{
+    background-image:url('../VS/img/fondo_header_trans.png');
+    width: 960px;
+    height: 130px;
+    border-bottom-style: groove;
+    border-bottom-color: Black;
+}
+
+.footer
+{ background-image:url('../VS/img/fondo_header_trans.png');
+  font:10px arial,helvetica,sans-serif;
+  font-weight:bold;
+  border-top-style:groove;
+  border-bottom-color:Black;
+  height:70px;
+}

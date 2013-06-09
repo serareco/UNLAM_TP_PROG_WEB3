@@ -1,26 +1,26 @@
 ﻿.login
-{    width:380px; 
+{    width:330px; 
 	 height:auto;
 	 background-color:#04046a;
 	 border-style:solid; 
 	 border-width:1px ; 
 	 border-color:#000000;
-	 float:left;
-	 margin:15px 20px 15px 75px;
+	 float:right;
+	 margin:3px 15px 15px 15px;
 }
 
 .link
-{   font:16px arial,helvetica,sans-serif; 
-	color: #04046a;
-	margin:10px;
+{   font:12px arial,helvetica,sans-serif; 
+	color: white;
+	margin:5px 0px 0px 10px;
 	float:left;
 	width:200px;
-	float:right;
+	float:left;
     }
 			
 .titleLog 
 {   display:block;
-    font: 20px arial,helvetica,sans-serif; 
+    font: 18px arial,helvetica,sans-serif; 
     color: white;
     margin:5px;
     text-align:center;
@@ -28,23 +28,31 @@
 	
 		
 .oneControlLog
-{	font:18px arial,helvetica,sans-serif; 
+{	font:14px arial,helvetica,sans-serif; 
  	color: white;
 	float:left;
-	width:90px;
+	width:70px;
 	margin:3px 30px 3px 30px;
 }
 
+.oneControlTxtLog
+{	font:11px arial,helvetica,sans-serif; 
+ 	color: Black;
+	float:left;
+	width:150px;
+}
 .buttom
 { text-align:right;
-  margin-right:35px;
-  margin-top:87px;
+  margin-right:15px;
+  margin-top:65px;
+  margin-bottom: 8px;
     }
       
 .category
 { background-color:White;
-  margin:50px 15px 15px 80px;
+  margin:50px 15px 15px 0px;
   height:50px;
+  text-align: center;
     }
  
  .shops
@@ -63,6 +71,7 @@
   border-color:#000000;
   float:left;
   background-color:White;
+  display: none;
     }
     
  .imgCol
@@ -83,3 +92,8 @@
     }
 
     
+    
+.catDDListControl
+{
+
+}

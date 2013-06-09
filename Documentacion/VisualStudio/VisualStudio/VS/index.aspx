@@ -1,29 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/VS/VisualStudio.Master" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="VisualStudio.VS.WebForm3" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="log" runat="server">
-
-        <div class="login">
-                <p class="titleLog ">Login</p>
-                <p >
-                    <p class="oneControlLog"><asp:Label ID="Label1" runat="server" Text="rs">E-mail:</asp:Label></p>
-                    <p class="oneControlLog"><asp:TextBox ID="TextBox6" runat="server"></asp:TextBox></p>
-                </p>
-
-               <p >
-                    <p class="oneControlLog"><asp:Label ID="Label2" runat="server" Text="rs">Contraseña:</asp:Label></p>
-                    <p class="oneControlLog"><asp:TextBox ID="TextBox7" runat="server"></asp:TextBox></p>
-                </p>
-
-           <p class="buttom"><asp:Button ID="Log" runat="server" Text="Aceptar" /></p>
-        </div>
-  
-</asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="registracion" runat="server">
-    <div class="link">
-        
-        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/VS/regLog.aspx">Crea tu tienda virtual</asp:HyperLink>
-    </div>
     
 </asp:Content>
 
@@ -33,10 +11,10 @@
     
         <div class="category">
            
-          <p>
-             <p class="oneControl"><asp:Label ID="Categoria" runat="server" Text="rs">Categoria:</asp:Label></p>
-             <p class="oneControl">  
-                 <asp:DropDownList ID="Category" runat="server" AutoPostBack="true"  >
+                 <asp:Label ID="Categoria" CssClass="catDDListControl" runat="server" Text="rs">Categoria:</asp:Label>
+                 <asp:DropDownList ID="category" CssClass = "catDDListControl" runat="server" 
+                  onselectedindexchanged="Category_SelectedIndexChanged"
+                  onChange="Category_SelectedIndexChanged();" >
                     
                      <asp:ListItem Value="0">Seleccione una Categoría</asp:ListItem>
                      <asp:ListItem Value="1">Accesorios para Vahículos</asp:ListItem>
@@ -65,24 +43,24 @@
                      <asp:ListItem Value="24">Ropa y Accesorios</asp:ListItem>
                      <asp:ListItem Value="25">Salud y Belleza</asp:ListItem>
                      <asp:ListItem Value="26">Servicios</asp:ListItem>
-                 </asp:DropDownList> 
-             </p>
-          </p>  
+                 </asp:DropDownList>  
         </div>
+        <asp:Label ID="test" runat="server" Text=""></asp:Label>
+
         <div class="shops">
-            <div class="column">
+            <div id = "c1" class="column">
                 <p class="title">
                     <asp:Label ID="Label3" runat="server" Text="ADIDAS"></asp:Label>
                 </p>
 
-                <asp:ImageButton ID="ImageButton1" runat="server" class="imgCol"  ImageUrl="~/VS/img/logoRopa/adidas.jpg" PostBackUrl="~/VS/productos.aspx"/>
+                <asp:ImageButton ID="ImageButton1" runat="server" CssClass="imgCol"  ImageUrl="~/VS/img/logoRopa/adidas.jpg" PostBackUrl="~/VS/productos.aspx"/>
                
             </div>
             <div class="column">
                  <p class="title">
                     <asp:Label ID="Label4" runat="server" Text="LEVIS"></asp:Label>
                 </p>
-                <asp:ImageButton ID="ImageButton2" runat="server" class="imgCol"  ImageUrl="~/VS/img/logoRopa/levis.jpg" PostBackUrl="~/VS/productos.aspx"/>
+                <asp:ImageButton ID="ImageButton2" runat="server" CssClass="imgCol"  ImageUrl="~/VS/img/logoRopa/levis.jpg" PostBackUrl="~/VS/productos.aspx"/>
             
             </div>
             <div class="column">
@@ -90,7 +68,7 @@
                     <asp:Label ID="Label5" runat="server" Text="TOTTO"></asp:Label>
                 </p>
             
-                <asp:ImageButton ID="ImageButton3" runat="server" class="imgCol"  ImageUrl="~/VS/img/logoRopa/totto.gif" PostBackUrl="~/VS/productos.aspx"/>
+                <asp:ImageButton ID="ImageButton3" runat="server" CssClass="imgCol"  ImageUrl="~/VS/img/logoRopa/totto.gif" PostBackUrl="~/VS/productos.aspx"/>
             </div>
        </div>
        

@@ -40,6 +40,56 @@
     border-bottom-color: Black;
 }
 
+.login
+{    width:330px; 
+	 height:auto;
+	 background-color:#04046a;
+	 border-style:solid; 
+	 border-width:1px ; 
+	 border-color:#000000;
+	 float:right;
+	 margin:3px 15px 15px 15px;
+}
+
+.link
+{   font:12px arial,helvetica,sans-serif; 
+	color: white;
+	margin:5px 0px 0px 10px;
+	float:left;
+	width:200px;
+	float:left;
+    }
+			
+.titleLog 
+{   display:block;
+    font: 18px arial,helvetica,sans-serif; 
+    color: white;
+    margin:5px;
+    text-align:center;
+    }
+		
+.oneControlLog
+{	font:14px arial,helvetica,sans-serif; 
+ 	color: white;
+	float:left;
+	width:70px;
+	margin:3px 30px 3px 30px;
+}
+
+.oneControlTxtLog
+{	font:11px arial,helvetica,sans-serif; 
+ 	color: Black;
+	float:left;
+	width:150px;
+}
+
+.buttom
+{ text-align:right;
+  margin-right:15px;
+  margin-top:65px;
+  margin-bottom: 8px;
+    }
+
 .footer
 { background-image:url('../VS/img/fondo_header_trans.png');
   font:10px arial,helvetica,sans-serif;

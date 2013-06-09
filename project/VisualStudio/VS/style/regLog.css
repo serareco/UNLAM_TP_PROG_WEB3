@@ -1,0 +1,37 @@
+﻿			
+.title 
+{   display:block;
+	font: 32px arial,helvetica,sans-serif; 
+	color: #04046a;
+	margin-top:10%;		
+	margin-bottom:0.4%;
+	text-align:center;
+		}
+			
+.controlers
+{   width:570px;
+    float:left;
+    margin:20px;
+		}
+		
+.oneControl
+{	font:20px arial,helvetica,sans-serif; 
+	color: #04046a;
+	margin:10px;
+	float:left;
+	width:200px;}
+			
+.division{ float:left;} 
+
+.mgerror
+{color:Red ; 
+ font-size:16px;
+ float: left;
+    }
+
+.imgBackgroud
+{ width:200px;
+  height:200px;
+  margin:100px 70px 10px 25px;
+    }
+    

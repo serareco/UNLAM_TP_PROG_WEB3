@@ -1,0 +1,28 @@
+﻿.title 
+{   display:block;
+	font: 32px arial,helvetica,sans-serif; 
+	color: #04046a;
+	margin-top:10%;		
+	margin-bottom:0.4%;
+	text-align:center;
+		}
+		
+.date
+{ background-color:White;
+  margin:50px 15px 15px 0px;
+  height:50px;
+  text-align: center;
+    }
+			
+
+
+            
+.mgrid
+{ margin: 50px 100px 0px 100px;}
+
+
+    
+ .icon
+ {  width:20px;
+    height:20px;
+     }

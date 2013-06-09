@@ -1,0 +1,15 @@
+﻿.title 
+{   display:block;
+	font: 32px arial,helvetica,sans-serif; 
+	color: #04046a;
+	margin-top:10%;		
+	margin-bottom:0.4%;
+	text-align:center;
+		}
+		
+.icon
+ {  width:20px;
+    height:20px;
+    padding:10px;
+     }
+            

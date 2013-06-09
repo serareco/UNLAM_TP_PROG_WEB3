@@ -1,0 +1,35 @@
+﻿.description
+ {  font:18px arial,helvetica,sans-serif; 
+    color: #04046a;
+    margin:20px;
+	float:left;
+	width:300px;
+     }
+
+ .imgDescription
+ {  width:300px;
+    height:300px;
+    margin:50px 25px 10px 25px;
+        }
+ .title 
+{   display:block;
+	font: 32px arial,helvetica,sans-serif; 
+	color: #04046a;
+	margin-top:10%;		
+	margin-bottom:0.4%;
+	text-align:center;
+		}
+			
+.controlers
+{   width:520px;
+    float:left;
+    margin:20px;
+		}
+		
+.division{ float:left;} 
+
+
+
+
+
+  
